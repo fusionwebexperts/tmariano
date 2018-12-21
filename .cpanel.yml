@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/developerincente/public_html/tmariano
-    - /css readme.txt $DEPLOYPATH
+    - readme.txt $DEPLOYPATH
